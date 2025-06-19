@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'Ishwarya-BI',
     description:
-      'It is basically normal project make the Internship company Ishwarya-BI website developed using React.js , CSS, HTML, and JavaScript.',
+      'It is a project which was worked upon during the internship for the Ishwarya-BI company website. It was developed using React.js , CSS, HTML, and JavaScript.',
     stack: ['React.js' , 'CSS', 'HTML',  'JavaScript'],
     sourceCode: 'https://github.com/Parag-kumbhar/Ishwarya-BI',
     livePreview: 'https://parag-kumbhar.github.io/Ishwarya-BI/',
@@ -39,7 +39,7 @@ const projects = [
   {
     name: 'GYM Management System',
     description:
-    'Developed a user-friendly web interface using HTML, CSS, PHP, and CodeIgniter 4 framework, applying MVC pattern for enhanced performance.',
+    'Developed a user-friendly web interface using HTML, CSS, PHP, and CodeIgniter 4 framework, by applying MVC pattern for enhanced performance.',
     stack: ['HTML', 'CSS', 'PHP', 'CodeIgniter 4'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
