@@ -1,19 +1,19 @@
-# Cleanfolio
+# Portfolio
 
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
+Portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/Parag-kumbhar/myportfolio.git).
 
-## Preview
+<!-- ## Preview
 
 [![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+[Live Demo](https://rjshkhr.github.io/cleanfolio) -->
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rjshkhr/cleanfolio
+git clone https://github.com/Parag-kumbhar/myportfolio.git
 cd cleanfolio
 ```
 
@@ -42,7 +42,7 @@ yarn start
 
 - Open the `public/index.html` file and replace:
 
-`<title>John Smith</title>` with `<title>Your Name</title>`.
+`<title>Parag</title>` with `<title>Parag Kumbhar</title>`.
 
 - Open the `src/portfolio.js` file and make the necessary changes.
 
@@ -50,7 +50,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
+`"homepage": "https://github.com/Parag-kumbhar/myportfolio.git"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
@@ -63,6 +63,4 @@ yarn build
 yarn deploy
 ```
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
