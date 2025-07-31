@@ -33,7 +33,7 @@ const projects = [
     description:
     'Built using React.js, Node.js, Express.js, and PostgreSQL. Features include data fetching, updating, file uploads with Multer, and secure password hashing with bcrypt.',
     stack: ['React.js', 'Node.js', 'Express.js', 'PostgreSQL'],
-    sourceCode: 'https://github.com/Parag-kumbhar/voters-directory', // Update with your project repo
+    sourceCode: 'https://github.com/Parag-kumbhar/Voters-Directory.git', // Update with your project repo
     livePreview: 'https://github.com',
   },
   {
