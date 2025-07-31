@@ -31,8 +31,8 @@ const projects = [
   {
     name: 'Voters Directory Project',
     description:
-    'Built using React.js, Node.js, Express.js, and PostgreSQL. Features include data fetching, updating, file uploads with Multer, and secure password hashing with bcrypt.',
-    stack: ['React.js', 'Node.js', 'Express.js', 'PostgreSQL'],
+    'Built using React.js, NestJS,and PostgreSQL. Features include data fetching, updating, file uploads with Multer, and secure password hashing with bcrypt.',
+    stack: ['React.js', 'NestJS','PostgreSQL'],
     sourceCode: 'https://github.com/Parag-kumbhar/Voters-Directory.git', // Update with your project repo
     livePreview: 'https://github.com',
   },
