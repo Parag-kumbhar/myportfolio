@@ -2,7 +2,7 @@
 
 <p align="center">
   A sleek, responsive, and customizable portfolio website built using <strong>React</strong> to showcase my skills, projects, and contact information. <br/>
-  <a href="https://parag-kumbhar.github.io" target="_blank">🌐 View Live</a> |
+  <a href="Parag-kumbhar.github.io/myportfolio" target="_blank">🌐 View Live</a> |
   <a href="#-features">🚀 Features</a> |
   <a href="#-tech-stack">🧰 Tech Stack</a> |
   <a href="#-setup-instructions">⚙️ Setup</a>
