@@ -10,7 +10,7 @@ const about = {
   role: 'Full Stack Engineer',
   description:
   'Outgoing and personable professional as well as an explorer. Teamwork-oriented, growth-focused, and performance-driven. Pursuing B.Tech in Computer Science Engineering with a passion for scalable web applications.',
-  resume: 'https://drive.google.com/file/d/1JZ1AfkQkCGV02zW_r7oA_UjQsAVKz-d8/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1DWlZIAt1ovtFg_FDBRuX1kMX4xo9IlBB/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/parag-kumbhar',
     github: 'https://github.com/Parag-kumbhar',
