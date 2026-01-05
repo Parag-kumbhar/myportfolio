@@ -9,7 +9,7 @@ const about = {
   name: 'Parag Kumbhar',
   role: 'Full Stack Engineer',
   description:
-  'Outgoing and personable professional as well as an explorer. Teamwork-oriented, growth-focused, and performance-driven. Pursuing B.Tech in Computer Science Engineering with a passion for scalable web applications.',
+    'Outgoing and personable professional as well as an explorer. Teamwork-oriented, growth-focused, and performance-driven. B.Tech in Computer Science Engineering with a passion for scalable web applications.',
   resume: 'https://drive.google.com/file/d/1DWlZIAt1ovtFg_FDBRuX1kMX4xo9IlBB/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/parag-kumbhar',
@@ -21,30 +21,41 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Ishwarya-BI',
+    name: 'Portfolio Website',
     description:
-      'It is a project which was worked upon during the internship for the Ishwarya-BI company website. It was developed using React.js , CSS, HTML, and JavaScript.',
-    stack: ['React.js' , 'CSS', 'HTML',  'JavaScript'],
-    sourceCode: 'https://github.com/Parag-kumbhar/Ishwarya-BI',
-    livePreview: 'https://parag-kumbhar.github.io/Ishwarya-BI/',
+      'Developed a responsive personal portfolio using React.js to showcase skills, projects, and contact details. Focused on reusable components, clean UI, and smooth user experience. Deployed on GitHub Pages.',
+    stack: ['HTML', 'CSS', 'ReactJS', 'JavaScript'],
+    sourceCode: 'https://github.com/Parag-kumbhar/myportfolio.git',
+    livePreview: 'https://parag-kumbhar.github.io/myportfolio/',
   },
   {
     name: 'Voters Directory Project',
     description:
-    'Built using React.js, NestJS,and PostgreSQL. Features include data fetching, updating, file uploads with Multer, and secure password hashing with bcrypt.',
-    stack: ['React.js', 'NestJS','PostgreSQL'],
+      'Built using React.js, NestJS,and PostgreSQL. Features include data fetching, updating, file uploads with Multer, and secure password hashing with bcrypt.',
+    stack: ['React.js', 'NestJS', 'PostgreSQL'],
     sourceCode: 'https://github.com/Parag-kumbhar/Voters-Directory.git', // Update with your project repo
-    livePreview: 'https://github.com',
+    livePreview: 'https://github.com/Parag-kumbhar/Voters-Directory.git',
   },
   {
-    name: 'GYM Management System',
+    name: 'Next.js Todo App',
     description:
-    'Developed a user-friendly web interface using HTML, CSS, PHP, and CodeIgniter 4 framework, by applying MVC pattern for enhanced performance.',
-    stack: ['HTML', 'CSS', 'PHP', 'CodeIgniter 4'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A modern and responsive Todo application built using Next.js, TypeScript, and Tailwind CSS.This app allows users to add, track, filter, and manage tasks efficiently with a beautiful UI and dark/light theme support.',
+    stack: ['NextJS', 'TypeScript', 'Tailwind CSS'],
+    sourceCode: 'https://github.com/Parag-kumbhar/next-todo-app.git',
+    livePreview: 'https://next-todo-app-seven-sable.vercel.app/',
   },
-  
+
+
+
+  {
+    name: 'Ishwarya-BI',
+    description:
+      'It is a project which was worked upon during the internship for the Ishwarya-BI company website. It was developed using React.js , CSS, HTML, and JavaScript.',
+    stack: ['React.js', 'CSS', 'HTML', 'JavaScript'],
+    sourceCode: 'https://github.com/Parag-kumbhar/Ishwarya-BI.git',
+    livePreview: 'https://parag-kumbhar.github.io/Ishwarya-BI/',
+  },
+
 ]
 
 const skills = [
@@ -52,10 +63,9 @@ const skills = [
   'HTML5',
   'CSS3',
   'Next.js',
-  'Express.js',
-  'PHP',
-  
-  'CodeIgniter',
+  // 'Express.js',
+  // 'TypeScript',
+
   // 'Python',
   'Java',
   'TypeScript',
